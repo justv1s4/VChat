@@ -1,7 +1,7 @@
 # VChat
 A chat app made in html, css, javascript.  As simple as that
 
-Tutorial to build you app:
+Tutorial to build your app:
 Step 1: Download the files in this repository |
 Step 2: Open Command Prompt |
 Step 3: Navigate to your server folder using "cd your/folder" command |
